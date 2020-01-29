@@ -12,7 +12,7 @@ body {
 }
 
 h1 {
-    background: cornflowerblue;
+    background: rgb(187, 100, 237);
     padding: 15px;
     font-size: 40px;
     text-transform: uppercase;
@@ -21,7 +21,7 @@ h1 {
 .clock {
     font-size: 50px;
     margin: 15% auto;
-    border: 2px solid cornflowerblue;
+    border: 2px solid white;
     padding: 20px;
     width: 80%;
 
